@@ -72,3 +72,17 @@ We utilize the Kialo Corpus and BM25 to find a similar explicit claim. We then c
 We prompt the LLM to generate an appropriate response based on the description. We can utilize prompt engineering to improve the responses for our evaluation.
 
 <img src="https://github.com/KiwiThePoodle/Large-Language-Models/blob/main/Retrieval-Augmented%20Generation.png">
+
+### Result
+
+Aragorn: RAG Agent (More advanced LLM Agent)
+
+Alice: LLM Agent
+
+Dialogue:
+
+(Alice) What are your thoughts on the importance of corporations taking responsibility for their environmental impact?
+
+(Aragorn) Acting proactively to address global challenges such as energy, water, and food security is not only possible, but also morally imperative. Waiting for crises to force change is a dangerous and irresponsible approach. By taking proactive measures, such as investing in renewable energy, implementing sustainable water management practices, and promoting ethical and efficient agricultural methods, we can work towards mitigating the severity of potential crises and creating a more stable and equitable world for future generations. It is our ethical duty to strive for solutions that prevent suffering and promote the well-being of all people, rather than waiting for crises to force change.
+
+(Alice) Absolutely, proactivity is important in addressing global challenges. However, it's also crucial to understand the challenges and complexities involved in implementing large-scale changes, as well as the potential impact on various stakeholders, including economic repercussions for certain industries and regions. Balancing proactive measures with consideration for all those affected can be a intricate challenge.
